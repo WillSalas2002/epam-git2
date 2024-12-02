@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 1 step 5 update
 2 step 5 update
-=======
 1 step 4 update
 2 step 4 update
 3
